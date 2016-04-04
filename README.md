@@ -84,7 +84,7 @@ authenticator: PasswordAuthenticator
 
 User Creation 
 CREATE USER <<USERNAME>> WITH PASSWORD '<<PASSWORD>>’;
-```sh
+```
 
 Cassandra OpsCenter & Agent
 ---------------------------
