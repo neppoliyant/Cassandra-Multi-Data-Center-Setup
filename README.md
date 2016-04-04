@@ -61,11 +61,11 @@ cassandra-topology.properties
 -----------------------------
 ```sh
 # Cassandra Node IP=Data Center:Rack
-96.118.182.76=DC2:rack1
-96.118.182.78=DC2:rack1
-96.118.43.8=DC1:rack1
-96.118.43.9=DC1:rack1
-96.118.43.11=DC1:rack1
+<<DC2 IP>>=DC2:rack1
+<<DC2 IP2>>=DC2:rack1
+<<DC1 IP>>=DC1:rack1
+<<DC1 IP2>>=DC1:rack1
+<<DC1 IP3>>=DC1:rack1
 ```
 
 Commands
